@@ -1,0 +1,7 @@
+name: CCEvent
+main: xyz.spudpvp.ccevent.CCEventPlugin
+version: '1.0'
+depend:
+  - PlaceholderAPI
+  - GPermissions
+  - GeneralAPI
